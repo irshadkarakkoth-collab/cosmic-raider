@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "releaseNotes": "Upgraded space laser weapons, smoother cosmic physics, and improved frame rates!",
-  "updateUrl": "https://github.com/irshadkarakkoth-collab/cosmic-raider/releases"
+  "releaseNotes": "Added new cosmic shields, smoother controls, and high-score saves!",
+  "updateUrl": "https://github.com/irshadkarakkoth-collab/cosmic-raider/releases/download/v1.1/app-debug.apk"
 }
